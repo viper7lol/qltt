@@ -1,0 +1,566 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF545A15-8852-40FC-8D27-AE24E15DF59D}|Quanlytrongtrot.csproj|c:\\users\\admin\\source\\repos\\quanlytrongtrot\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BF545A15-8852-40FC-8D27-AE24E15DF59D}|Quanlytrongtrot.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF545A15-8852-40FC-8D27-AE24E15DF59D}|Quanlytrongtrot.csproj|C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BF545A15-8852-40FC-8D27-AE24E15DF59D}|Quanlytrongtrot.csproj|solutionrelative:loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF545A15-8852-40FC-8D27-AE24E15DF59D}|Quanlytrongtrot.csproj|C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF545A15-8852-40FC-8D27-AE24E15DF59D}|Quanlytrongtrot.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF545A15-8852-40FC-8D27-AE24E15DF59D}|Quanlytrongtrot.csproj|C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\controllers\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF545A15-8852-40FC-8D27-AE24E15DF59D}|Quanlytrongtrot.csproj|solutionrelative:controllers\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF545A15-8852-40FC-8D27-AE24E15DF59D}|Quanlytrongtrot.csproj|C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF545A15-8852-40FC-8D27-AE24E15DF59D}|Quanlytrongtrot.csproj|solutionrelative:controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF545A15-8852-40FC-8D27-AE24E15DF59D}|Quanlytrongtrot.csproj|C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF545A15-8852-40FC-8D27-AE24E15DF59D}|Quanlytrongtrot.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF545A15-8852-40FC-8D27-AE24E15DF59D}|Quanlytrongtrot.csproj|C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF545A15-8852-40FC-8D27-AE24E15DF59D}|Quanlytrongtrot.csproj|solutionrelative:loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF545A15-8852-40FC-8D27-AE24E15DF59D}|Quanlytrongtrot.csproj|C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BF545A15-8852-40FC-8D27-AE24E15DF59D}|Quanlytrongtrot.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF545A15-8852-40FC-8D27-AE24E15DF59D}|Quanlytrongtrot.csproj|C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\vst\\mvc\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF545A15-8852-40FC-8D27-AE24E15DF59D}|Quanlytrongtrot.csproj|solutionrelative:vst\\mvc\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF545A15-8852-40FC-8D27-AE24E15DF59D}|Quanlytrongtrot.csproj|C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\vst\\mvc\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF545A15-8852-40FC-8D27-AE24E15DF59D}|Quanlytrongtrot.csproj|solutionrelative:vst\\mvc\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF545A15-8852-40FC-8D27-AE24E15DF59D}|Quanlytrongtrot.csproj|C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\vst\\mvc\\view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF545A15-8852-40FC-8D27-AE24E15DF59D}|Quanlytrongtrot.csproj|solutionrelative:vst\\mvc\\view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF545A15-8852-40FC-8D27-AE24E15DF59D}|Quanlytrongtrot.csproj|C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\vst\\mvc\\viewdatadictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF545A15-8852-40FC-8D27-AE24E15DF59D}|Quanlytrongtrot.csproj|solutionrelative:vst\\mvc\\viewdatadictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF545A15-8852-40FC-8D27-AE24E15DF59D}|Quanlytrongtrot.csproj|C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\vst\\mvc\\requestcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF545A15-8852-40FC-8D27-AE24E15DF59D}|Quanlytrongtrot.csproj|solutionrelative:vst\\mvc\\requestcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF545A15-8852-40FC-8D27-AE24E15DF59D}|Quanlytrongtrot.csproj|C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\vst\\mvc\\actionresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF545A15-8852-40FC-8D27-AE24E15DF59D}|Quanlytrongtrot.csproj|solutionrelative:vst\\mvc\\actionresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF545A15-8852-40FC-8D27-AE24E15DF59D}|Quanlytrongtrot.csproj|C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\vst\\mvc\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF545A15-8852-40FC-8D27-AE24E15DF59D}|Quanlytrongtrot.csproj|solutionrelative:vst\\mvc\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF545A15-8852-40FC-8D27-AE24E15DF59D}|Quanlytrongtrot.csproj|C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\vst\\json\\vietunicode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF545A15-8852-40FC-8D27-AE24E15DF59D}|Quanlytrongtrot.csproj|solutionrelative:vst\\json\\vietunicode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF545A15-8852-40FC-8D27-AE24E15DF59D}|Quanlytrongtrot.csproj|C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\vst\\json\\typeextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF545A15-8852-40FC-8D27-AE24E15DF59D}|Quanlytrongtrot.csproj|solutionrelative:vst\\json\\typeextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF545A15-8852-40FC-8D27-AE24E15DF59D}|Quanlytrongtrot.csproj|C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\vst\\json\\stringextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF545A15-8852-40FC-8D27-AE24E15DF59D}|Quanlytrongtrot.csproj|solutionrelative:vst\\json\\stringextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF545A15-8852-40FC-8D27-AE24E15DF59D}|Quanlytrongtrot.csproj|C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\vst\\json\\sharememory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF545A15-8852-40FC-8D27-AE24E15DF59D}|Quanlytrongtrot.csproj|solutionrelative:vst\\json\\sharememory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF545A15-8852-40FC-8D27-AE24E15DF59D}|Quanlytrongtrot.csproj|C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\vst\\json\\objectextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF545A15-8852-40FC-8D27-AE24E15DF59D}|Quanlytrongtrot.csproj|solutionrelative:vst\\json\\objectextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF545A15-8852-40FC-8D27-AE24E15DF59D}|Quanlytrongtrot.csproj|C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\vst\\json\\network.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF545A15-8852-40FC-8D27-AE24E15DF59D}|Quanlytrongtrot.csproj|solutionrelative:vst\\json\\network.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF545A15-8852-40FC-8D27-AE24E15DF59D}|Quanlytrongtrot.csproj|C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\vst\\json\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF545A15-8852-40FC-8D27-AE24E15DF59D}|Quanlytrongtrot.csproj|solutionrelative:vst\\json\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF545A15-8852-40FC-8D27-AE24E15DF59D}|Quanlytrongtrot.csproj|C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\vst\\json\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF545A15-8852-40FC-8D27-AE24E15DF59D}|Quanlytrongtrot.csproj|solutionrelative:vst\\json\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF545A15-8852-40FC-8D27-AE24E15DF59D}|Quanlytrongtrot.csproj|C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\vst\\json\\(md5).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF545A15-8852-40FC-8D27-AE24E15DF59D}|Quanlytrongtrot.csproj|solutionrelative:vst\\json\\(md5).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF545A15-8852-40FC-8D27-AE24E15DF59D}|Quanlytrongtrot.csproj|C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\vst\\data\\objectid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF545A15-8852-40FC-8D27-AE24E15DF59D}|Quanlytrongtrot.csproj|solutionrelative:vst\\data\\objectid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF545A15-8852-40FC-8D27-AE24E15DF59D}|Quanlytrongtrot.csproj|C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\vst\\data\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF545A15-8852-40FC-8D27-AE24E15DF59D}|Quanlytrongtrot.csproj|solutionrelative:vst\\data\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF545A15-8852-40FC-8D27-AE24E15DF59D}|Quanlytrongtrot.csproj|C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\vst\\data\\bsondatamap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF545A15-8852-40FC-8D27-AE24E15DF59D}|Quanlytrongtrot.csproj|solutionrelative:vst\\data\\bsondatamap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF545A15-8852-40FC-8D27-AE24E15DF59D}|Quanlytrongtrot.csproj|C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\vst\\data\\collection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF545A15-8852-40FC-8D27-AE24E15DF59D}|Quanlytrongtrot.csproj|solutionrelative:vst\\data\\collection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF545A15-8852-40FC-8D27-AE24E15DF59D}|Quanlytrongtrot.csproj|C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\vst\\data\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF545A15-8852-40FC-8D27-AE24E15DF59D}|Quanlytrongtrot.csproj|solutionrelative:vst\\data\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF545A15-8852-40FC-8D27-AE24E15DF59D}|Quanlytrongtrot.csproj|C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF545A15-8852-40FC-8D27-AE24E15DF59D}|Quanlytrongtrot.csproj|solutionrelative:properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF545A15-8852-40FC-8D27-AE24E15DF59D}|Quanlytrongtrot.csproj|C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF545A15-8852-40FC-8D27-AE24E15DF59D}|Quanlytrongtrot.csproj|solutionrelative:properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADmin\\Downloads\\WinApp\\WinApp\\Views\\MyButton.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADmin\\Downloads\\WinApp\\WinApp\\Views\\Group\\All.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADmin\\Downloads\\WinApp\\WinApp\\Views\\Contact\\All.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 169,
+          "SelectedChildIndex": 33,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAEwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T06:50:28.792Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\VST\\Data\\Database.cs",
+              "RelativeDocumentMoniker": "VST\\Data\\Database.cs",
+              "ToolTip": "C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\VST\\Data\\Database.cs",
+              "RelativeToolTip": "VST\\Data\\Database.cs",
+              "ViewState": "AQIAAHABAAAAAAAAAAAcwIsBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T03:53:48.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "View.cs",
+              "DocumentMoniker": "C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\VST\\MVC\\View.cs",
+              "RelativeDocumentMoniker": "VST\\MVC\\View.cs",
+              "ToolTip": "C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\VST\\MVC\\View.cs",
+              "RelativeToolTip": "VST\\MVC\\View.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T03:47:01.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Session.cs",
+              "DocumentMoniker": "C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\VST\\MVC\\Session.cs",
+              "RelativeDocumentMoniker": "VST\\MVC\\Session.cs",
+              "ToolTip": "C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\VST\\MVC\\Session.cs",
+              "RelativeToolTip": "VST\\MVC\\Session.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T03:44:49.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RequestContext.cs",
+              "DocumentMoniker": "C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\VST\\MVC\\RequestContext.cs",
+              "RelativeDocumentMoniker": "VST\\MVC\\RequestContext.cs",
+              "ToolTip": "C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\VST\\MVC\\RequestContext.cs",
+              "RelativeToolTip": "VST\\MVC\\RequestContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T03:44:17.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\VST\\MVC\\Engine.cs",
+              "RelativeDocumentMoniker": "VST\\MVC\\Engine.cs",
+              "ToolTip": "C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\VST\\MVC\\Engine.cs",
+              "RelativeToolTip": "VST\\MVC\\Engine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T03:43:42.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ActionResult.cs",
+              "DocumentMoniker": "C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\VST\\MVC\\ActionResult.cs",
+              "RelativeDocumentMoniker": "VST\\MVC\\ActionResult.cs",
+              "ToolTip": "C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\VST\\MVC\\ActionResult.cs",
+              "RelativeToolTip": "VST\\MVC\\ActionResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T03:42:28.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ViewDataDictionary.cs",
+              "DocumentMoniker": "C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\VST\\MVC\\ViewDataDictionary.cs",
+              "RelativeDocumentMoniker": "VST\\MVC\\ViewDataDictionary.cs",
+              "ToolTip": "C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\VST\\MVC\\ViewDataDictionary.cs",
+              "RelativeToolTip": "VST\\MVC\\ViewDataDictionary.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T03:41:39.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Settings.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\Properties\\Settings.Designer.cs",
+              "RelativeDocumentMoniker": "Properties\\Settings.Designer.cs",
+              "ToolTip": "C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\Properties\\Settings.Designer.cs",
+              "RelativeToolTip": "Properties\\Settings.Designer.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T03:38:57.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T03:37:39.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "MyButton.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ADmin\\Downloads\\WinApp\\WinApp\\Views\\MyButton.xaml.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\WinApp\\WinApp\\Views\\MyButton.xaml.cs",
+              "ToolTip": "C:\\Users\\ADmin\\Downloads\\WinApp\\WinApp\\Views\\MyButton.xaml.cs",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\WinApp\\WinApp\\Views\\MyButton.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T03:10:40.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "All.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ADmin\\Downloads\\WinApp\\WinApp\\Views\\Group\\All.xaml.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\WinApp\\WinApp\\Views\\Group\\All.xaml.cs",
+              "ToolTip": "C:\\Users\\ADmin\\Downloads\\WinApp\\WinApp\\Views\\Group\\All.xaml.cs",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\WinApp\\WinApp\\Views\\Group\\All.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T03:10:19.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "All.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ADmin\\Downloads\\WinApp\\WinApp\\Views\\Contact\\All.xaml.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\WinApp\\WinApp\\Views\\Contact\\All.xaml.cs",
+              "ToolTip": "C:\\Users\\ADmin\\Downloads\\WinApp\\WinApp\\Views\\Contact\\All.xaml.cs",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\WinApp\\WinApp\\Views\\Contact\\All.xaml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T03:09:54.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "VietUnicode.cs",
+              "DocumentMoniker": "C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\VST\\Json\\VietUnicode.cs",
+              "RelativeDocumentMoniker": "VST\\Json\\VietUnicode.cs",
+              "ToolTip": "C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\VST\\Json\\VietUnicode.cs",
+              "RelativeToolTip": "VST\\Json\\VietUnicode.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T03:00:58.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TypeExtension.cs",
+              "DocumentMoniker": "C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\VST\\Json\\TypeExtension.cs",
+              "RelativeDocumentMoniker": "VST\\Json\\TypeExtension.cs",
+              "ToolTip": "C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\VST\\Json\\TypeExtension.cs",
+              "RelativeToolTip": "VST\\Json\\TypeExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T03:00:32.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StringExtension.cs",
+              "DocumentMoniker": "C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\VST\\Json\\StringExtension.cs",
+              "RelativeDocumentMoniker": "VST\\Json\\StringExtension.cs",
+              "ToolTip": "C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\VST\\Json\\StringExtension.cs",
+              "RelativeToolTip": "VST\\Json\\StringExtension.cs",
+              "ViewState": "AQIAAK4AAAAAAAAAAAAkwL0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T03:00:02.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ShareMemory.cs",
+              "DocumentMoniker": "C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\VST\\Json\\ShareMemory.cs",
+              "RelativeDocumentMoniker": "VST\\Json\\ShareMemory.cs",
+              "ToolTip": "C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\VST\\Json\\ShareMemory.cs",
+              "RelativeToolTip": "VST\\Json\\ShareMemory.cs",
+              "ViewState": "AQIAAOIAAAAAAAAAAAAcwP0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T02:59:29.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ObjectExtension.cs",
+              "DocumentMoniker": "C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\VST\\Json\\ObjectExtension.cs",
+              "RelativeDocumentMoniker": "VST\\Json\\ObjectExtension.cs",
+              "ToolTip": "C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\VST\\Json\\ObjectExtension.cs",
+              "RelativeToolTip": "VST\\Json\\ObjectExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T02:58:55.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Network.cs",
+              "DocumentMoniker": "C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\VST\\Json\\Network.cs",
+              "RelativeDocumentMoniker": "VST\\Json\\Network.cs",
+              "ToolTip": "C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\VST\\Json\\Network.cs",
+              "RelativeToolTip": "VST\\Json\\Network.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T02:58:20.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Document.cs",
+              "DocumentMoniker": "C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\VST\\Json\\Document.cs",
+              "RelativeDocumentMoniker": "VST\\Json\\Document.cs",
+              "ToolTip": "C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\VST\\Json\\Document.cs",
+              "RelativeToolTip": "VST\\Json\\Document.cs",
+              "ViewState": "AQIAAMEAAAAAAAAAAAAcwNwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T02:57:57.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\VST\\Json\\DataContext.cs",
+              "RelativeDocumentMoniker": "VST\\Json\\DataContext.cs",
+              "ToolTip": "C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\VST\\Json\\DataContext.cs",
+              "RelativeToolTip": "VST\\Json\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEgBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T02:57:20.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "(MD5).cs",
+              "DocumentMoniker": "C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\VST\\Json\\(MD5).cs",
+              "RelativeDocumentMoniker": "VST\\Json\\(MD5).cs",
+              "ToolTip": "C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\VST\\Json\\(MD5).cs",
+              "RelativeToolTip": "VST\\Json\\(MD5).cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAkwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T02:56:52.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ObjectId.cs",
+              "DocumentMoniker": "C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\VST\\Data\\ObjectId.cs",
+              "RelativeDocumentMoniker": "VST\\Data\\ObjectId.cs",
+              "ToolTip": "C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\VST\\Data\\ObjectId.cs",
+              "RelativeToolTip": "VST\\Data\\ObjectId.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAcwEsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T02:55:47.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Document.cs",
+              "DocumentMoniker": "C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\VST\\Data\\Document.cs",
+              "RelativeDocumentMoniker": "VST\\Data\\Document.cs",
+              "ToolTip": "C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\VST\\Data\\Document.cs",
+              "RelativeToolTip": "VST\\Data\\Document.cs",
+              "ViewState": "AQIAAJAAAAAAAAAAAAAcwKsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T02:54:32.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Collection.cs",
+              "DocumentMoniker": "C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\VST\\Data\\Collection.cs",
+              "RelativeDocumentMoniker": "VST\\Data\\Collection.cs",
+              "ToolTip": "C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\VST\\Data\\Collection.cs",
+              "RelativeToolTip": "VST\\Data\\Collection.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAIAwwFMAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T02:53:30.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BsonDataMap.cs",
+              "DocumentMoniker": "C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\VST\\Data\\BsonDataMap.cs",
+              "RelativeDocumentMoniker": "VST\\Data\\BsonDataMap.cs",
+              "ToolTip": "C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\VST\\Data\\BsonDataMap.cs",
+              "RelativeToolTip": "VST\\Data\\BsonDataMap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T02:51:28.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Controller.cs",
+              "DocumentMoniker": "C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\VST\\MVC\\Controller.cs",
+              "RelativeDocumentMoniker": "VST\\MVC\\Controller.cs",
+              "ToolTip": "C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\VST\\MVC\\Controller.cs",
+              "RelativeToolTip": "VST\\MVC\\Controller.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAkwH8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T02:47:41.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "LoginWindow.xaml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAEwBUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T02:38:43.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BaseController.cs",
+              "ToolTip": "C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "Controllers\\BaseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T10:12:45.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainController.cs",
+              "DocumentMoniker": "C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\Controllers\\MainController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MainController.cs",
+              "ToolTip": "C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\Controllers\\MainController.cs",
+              "RelativeToolTip": "Controllers\\MainController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T10:03:40.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\LoginWindow.xaml",
+              "RelativeToolTip": "LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-09T09:56:07.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T04:34:45.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\App.xaml*",
+              "RelativeToolTip": "App.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-08T02:47:44.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\ADmin\\source\\repos\\Quanlytrongtrot\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-05T06:50:28.838Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
